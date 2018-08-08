@@ -1,0 +1,14 @@
+{
+  "name": "hatton",
+  "version": "1.0.0",
+  "description": "Hattons Tow and Recovery",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Jesse @ Follow Me Code",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.9.2"
+  }
+}
